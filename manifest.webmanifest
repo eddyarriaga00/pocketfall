@@ -1,0 +1,15 @@
+{
+  "name": "PocketFall",
+  "short_name": "PocketFall",
+  "description": "A survival story in Knox County. Two ordinary days, then the flash. Plays on phones, tablets, laptops and with a controller.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0e0d0c",
+  "theme_color": "#0e0d0c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
